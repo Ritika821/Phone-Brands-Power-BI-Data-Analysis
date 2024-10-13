@@ -23,6 +23,16 @@ This is a Power BI project in which I have analysed and compared the price and r
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Dashboard :
+
+<p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNmUzODA1ZDktNGZlMC00ZWM1LWEwMjAtODk0MzVhYTEyNGU1IiwidCI6ImQ0YjRjNTZiLTU0N2MtNDU3Mi04MmMyLWM4YzFhMWQ2MGZmMCJ9&pageName=8ce39f29032e08cb48fc"><img src="Graphs/Dashboard.png"/>
+  </a>
+</p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Project KPI :
 
 In this Project, the measures displays, total numbers of phone i.e. 984 phones, total reviews is 6M, average rating is 4.24, average price is 15.4K, average display size is 6 inches and the top brand based on rating is One Plus which has got 4.56 ratings from total 4050 reviews.
